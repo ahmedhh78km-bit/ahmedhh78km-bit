@@ -90,8 +90,9 @@ Coding... loading soon 😎
 
 <p>
   <a href="#"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-</p>
+<a href="https://www.linkedin.com/in/ahmed-khairy-344950365" target="_blank">
+  <img src="https://img.shields.io/badge/Ahmed_Khairy-LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+</a></p>
 
 ---
 
