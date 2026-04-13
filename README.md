@@ -1,45 +1,65 @@
 <div align="center">
-  <h1>
-    Hi there, I'm Rao Hai!
-    <img src="https://github.githubassets.com/images/mona-whisper.gif" height="30" />
-  </h1>
-  <p>
-    <em>🚀 Full Stack / AI Engineer at <a href="https://afx-team.github.io/">Alipay Experience Technology Department</a></em>
-  </p>
+  <h1>Hey 👋, I'm Ahmed Khairy</h1>
+  <h3>🚀 Full Stack Developer (MERN) | Building real-world web apps</h3>
 
   <p>
-    <a href="https://github.com/RaoHai">
-      <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
-    </a>
-    <a href="https://github.com/RaoHai">
-      <img src="https://komarev.com/ghpvc/?username=RaoHai&color=brightgreen" />
-    </a>
+    <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" />
   </p>
 </div>
 
 ---
 
-## 🎤 Conference Presentations
+## 👨‍💻 About Me
 
- - **W3C — TPAC 2025 & WebEvolve 2025** / Web AI Agent Rendering Containers — Dynamic architectures and the need for standardization
-   - [TPAC 2025](https://www.w3.org/events/meetings/32b7c7e5-b0cf-42c9-94c4-9e384526f4a3/#join): [Slides / English](https://www.w3.org/2025/11/13-chinese-web-minutes.html#b888)
-   - [WebEvolve 2025](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/high-perf.en.html): [Slides / Chinese](https://www.w3.org/2024/01/webevolve-series-events/annual-2025/slides/hai-rao.pdf)
-
-
- - **[第十三届中国用户体验大会](https://www.uxacn.com/)**  / AI Agent for Accessibility
-
-- **[GMTC 2021](https://gmtc.infoq.cn/2021/beijing/presentation/3526)** /  [蚂蚁前端灰度监控与变更防御](https://gmtc.infoq.cn/2021/beijing/presentation/3526)
+* 💻 Full Stack Developer (MERN Stack)
+* ⚡ Passionate about building scalable web apps
+* 🤖 Interested in AI & modern technologies
+* 🌱 Currently learning Backend & System Design
+* 📍 Egypt
 
 ---
 
-## 📝 Latest Blog Posts
+## 🛠️ Tech Stack
 
-- 🌐 [2023 Google I/O Connect Shanghai 参会总结：云，AI 与 Web](https://yuque.com/luchen/buzhou/lbtio5z9p8gssn26) - September 11, 2023
+**Frontend:** React.js, Next.js, Tailwind CSS
+**Backend:** Node.js, Express.js
+**Database:** MongoDB, MySQL
+**Tools:** Git, GitHub, VS Code, Postman
 
-- 📊 [[个人向] Google State of DevOps Reports 2022 解读](https://yuque.com/luchen/buzhou/za1pom) - October 18, 2022
+---
 
-- 🔍 [在没有 SourceMap 的情况下反解源码](https://yuque.com/luchen/buzhou/dpbum7) - July 12, 2021
+## 🚧 Current Focus
 
-- 🎨 [为自己的团队定制 CSS 框架](https://yuque.com/luchen/buzhou/bs9tzt) - March 2, 2021
+* 🚀 Building real-world projects
+* 📚 Data Structures & Algorithms
+* ⚡ Clean Code & Best Practices
+* 🔐 Authentication & Security
 
-- 🔗 [How I Built A Self-Updating README by Webhooks and Netlify Functions.](https://yuque.com/luchen/buzhou/hga8n6) - July 20, 2020
+---
+
+## 🔨 Upcoming Projects
+
+* 🛒 E-commerce App (MERN)
+* 💬 Chat Application (Socket.io)
+* 📝 Notes App with Auth
+* 🤖 Simple AI Tools
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+* 📧 [ahmedhh.78km@gmail.com](mailto:ahmedhh.78km@gmail.com)
+
+---
+
+## ⚡ Quote
+
+> "Consistency beats talent."
