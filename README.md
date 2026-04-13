@@ -1,65 +1,51 @@
-<div align="center">
-  <h1>Hey 👋, I'm Ahmed Khairy</h1>
-  <h3>🚀 Full Stack Developer (MERN) | Building real-world web apps</h3>
+## 💼 Freelance Work
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=your-username&color=blue" />
-  </p>
-</div>
+💡 Available for freelance projects & collaborations
+📩 Reach me at: **[ahmedhh.78km@gmail.com](mailto:ahmedhh.78km@gmail.com)**
 
 ---
 
-## 👨‍💻 About Me
+## 📊 Weekly Development Breakdown
 
-* 💻 Full Stack Developer (MERN Stack)
-* ⚡ Passionate about building scalable web apps
-* 🤖 Interested in AI & modern technologies
-* 🌱 Currently learning Backend & System Design
-* 📍 Egypt
+<!--START_SECTION:waka-->
 
----
+```txt
+TypeScript   7 hrs 46 mins         ████████████████████░░░░░   79.56 %
+Other        1 hr 32 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+JSON         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+CSS          3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
+Markdown     0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+```
 
-## 🛠️ Tech Stack
-
-**Frontend:** React.js, Next.js, Tailwind CSS
-**Backend:** Node.js, Express.js
-**Database:** MongoDB, MySQL
-**Tools:** Git, GitHub, VS Code, Postman
+<!--END_SECTION:waka-->
 
 ---
 
-## 🚧 Current Focus
+## ☕ Support Me
 
-* 🚀 Building real-world projects
-* 📚 Data Structures & Algorithms
-* ⚡ Clean Code & Best Practices
-* 🔐 Authentication & Security
+If you like my work, consider supporting me 🙌
 
----
-
-## 🔨 Upcoming Projects
-
-* 🛒 E-commerce App (MERN)
-* 💬 Chat Application (Socket.io)
-* 📝 Notes App with Auth
-* 🤖 Simple AI Tools
+<a href="#" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" />
+</a>
 
 ---
 
-## 📊 GitHub Stats
+## 🚧 Productivity Stats
+
+<!-- TODO-IST:START -->
+
+🏆 Karma Points: 8,004
+🌸 Tasks Done Today: 0
+✅ Total Completed Tasks: 673
+⏳ Longest Streak: 10 days
+
+<!-- TODO-IST:END -->
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
 </p>
-
----
-
-## 📫 Connect With Me
-
-* 📧 [ahmedhh.78km@gmail.com](mailto:ahmedhh.78km@gmail.com)
-
----
-
-## ⚡ Quote
-
-> "Consistency beats talent."
